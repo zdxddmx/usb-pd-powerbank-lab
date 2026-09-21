@@ -1,0 +1,8 @@
+﻿build/
+out/
+*.o
+*.exe
+*.csv
+*.log
+__pycache__/
+*.png
